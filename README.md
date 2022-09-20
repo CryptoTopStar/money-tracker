@@ -28,7 +28,7 @@ Our software is distributed under the MIT License.
 ### How to install
 * Clone the repo from this website, then
 * In command line:
-  * ```$ git clone https://github.com/ayastreb/money-tracker.git```
+  * ```$ git clone https://github.com/cryptotopstar/money-tracker.git```
   * ```$ cd money-tracker```
   * ```$ npm install```
   * ```$ npm start```
