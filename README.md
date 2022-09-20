@@ -1,7 +1,7 @@
 # Money Tracker
 
-[![Build Status](https://travis-ci.org/ayastreb/money-tracker.svg?branch=master)](https://travis-ci.org/ayastreb/money-tracker)
-[![Code Climate](https://codeclimate.com/github/ayastreb/money-tracker/badges/gpa.svg)](https://codeclimate.com/github/ayastreb/money-tracker)
+[![Build Status](https://travis-ci.org/cryptotopstar/money-tracker.svg?branch=master)](https://travis-ci.org/cryptotopstar/money-tracker)
+[![Code Climate](https://codeclimate.com/github/cryptotopstar/money-tracker/badges/gpa.svg)](https://codeclimate.com/github/cryptotopstar/money-tracker)
 
 [![Money Tracker](https://moneytracker.cc/assets/screenshot.png)](https://app.moneytracker.cc)
 
@@ -39,7 +39,7 @@ Our software is distributed under the MIT License.
 
  And start developing for contribution.
  
- If any questions arise, please see the [open issues](https://github.com/ayastreb/money-tracker/issues) tab as some of them might have already been answered. 
+ If any questions arise, please see the [open issues](https://github.com/cryptotopstar/money-tracker/issues) tab as some of them might have already been answered. 
 
 ## Contributing
 
@@ -69,4 +69,4 @@ Please keep in mind that everyone:
 
 ## Development Tracking
 
-See the [open issues](https://github.com/ayastreb/money-tracker/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/cryptotopstar/money-tracker/issues) for a list of proposed features (and known issues).
